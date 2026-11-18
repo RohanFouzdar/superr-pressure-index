@@ -3,8 +3,9 @@
 A pressure rating for T20 batters and bowlers, built for **SupeRR Selector Season 2 (Rajasthan Royals), Round 1**.
 
 **Live dashboard → https://rohanfouzdar.github.io/superr-pressure-index/**
+Open it with only players RR can sign: [batters](https://rohanfouzdar.github.io/superr-pressure-index/#rr) · [bowlers](https://rohanfouzdar.github.io/superr-pressure-index/#rr-bowl)
 
-![Dashboard preview](preview.png)
+![Dashboard with "Available to RR only" selected](preview.png)
 
 ## The idea
 
